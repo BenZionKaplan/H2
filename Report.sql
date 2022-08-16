@@ -1,5 +1,6 @@
 
 select name, Price from Product
+order by name
 
 select* from Product where PRICE > 50
 
